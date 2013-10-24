@@ -27,7 +27,7 @@ include 'header.php';
 	</div>
 	
 	<hr />
-
+ 
 	<?php
 include 'footer.php';
 ?>
